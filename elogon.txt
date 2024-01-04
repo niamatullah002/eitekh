@@ -1,7 +1,7 @@
-Box (0,0) (8,79) "Welcome to DG Food"
+Box (0,0) (8,89) "Welcome to DG Food"
 Image (1,35) (4.8,28) "logo.png"
 del G[Information] // G[MESSAGE_FRAME]
 del F[Client]
 del F[Logon Language]
-pos F[User] (2,1)
-pos F[Password] (3,1)
+pos F[User] (3,1)
+pos F[Password] (4,1)
