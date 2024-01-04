@@ -2,6 +2,6 @@ Box (0,0) (5,65) "Welcome to DG Food"
 Image (1,1) (4.8,28) "logo.png"
 del G[Information] // G[MESSAGE_FRAME]
 del F[Client]
-del F[Language]
+del F[Logon Language]
 pos F[User] (2,32)
 pos F[Password] (3,32)
