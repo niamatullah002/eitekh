@@ -1,4 +1,4 @@
-Box (0,0) (5,65) "Welcome to DG Food"
+Box (0,0) (5,5) "Welcome to DG Food"
 Image (0.6,1) (4.8,28) "logo.png"
 del G[Information] // G[MESSAGE_FRAME]
 pos F[Client] (1,32)
