@@ -1,2 +1,2 @@
-Box (50,500) (8,85) "Welcome to DG Food"
-Image (500,1) (4.8,28) "logo.png"
+Box (50,50) (8,85) "Welcome to DG Food"
+Image (50,1) (4.8,28) "logo.png"
