@@ -1,7 +1,6 @@
 Box (0,0) (5,65) "Welcome"
 Image (0.6,1) (4.8,28) "logo.png"
 del G[Information] // G[MESSAGE_FRAME]
-pos F[Client] (1,32)
 pos F[Language] (2,32)
 pos F[User] (3,32)
 pos F[Password] (4,32)
