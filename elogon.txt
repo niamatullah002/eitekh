@@ -3,5 +3,6 @@ Image (1,35) (4.8,28) "logo.png"
 del G[Information] // G[MESSAGE_FRAME]
 del F[Client]
 del F[Logon Language]
+Text F[User]      "ব্যবহারকারী"
 pos F[User] (3,1)
 pos F[Password] (4,1)
