@@ -1,4 +1,4 @@
-Text F[Bill of Lading]     "বিল অফ লেডিং"
+﻿Text F[Bill of Lading]     "বিল অফ লেডিং"
 Text F[Delivery Note]     "চালান পত্র"
 Text F[Document Date]     "লিপিবদ্ধকরনের তারিখ"
 Text F[HeaderText]     "শিরোনাম"
