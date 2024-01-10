@@ -29,7 +29,4 @@ Text P[Stock Determ. for All]     "স্টক ডিটারম। সবা�
 Text P[Transport Equipment]     "পরিবহন যন্ত্রপাতি"
 Text P[Vendor]     "বিক্রেতা"
 Text P[Where]     "কোথায়"
-Text S[TS_GOHEAD]     "TS_GOHEAD"
-Text S[TS_GOITEM]     "TS_GOITEM"
 Text T[Table]     "টেবিল"
-Text X[SUB_DEBUG]     "SUB_DEBUG"
