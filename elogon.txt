@@ -5,5 +5,5 @@ del F[Client]
 del F[Logon Language]
 Text F[User]      "ব্যবহারকারী/User"
 pos F[User] (3,1)
-Text F[Password]      "পাসওয়ার্ড/Password"
+Text F[Password]      "পাসওয়ার্ড/Pass"
 pos F[Password] (4,1)
