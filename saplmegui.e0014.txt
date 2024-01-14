@@ -126,3 +126,8 @@ Text P[Undo filter] "ফিল্টার পূর্বাবস্থায�
 Text S[HEADER_DETAIL] "HEADER_DETAIL"
 Text T[Table] "টেবিল"
 Text X[CONTROL] "নিয়ন্ত্রণ"
+Text F[Incoterms Version] "ইনকোটার্মস সংস্করণ"
+Text F[Incoterms]  "ইনকোটার্মস"
+Text F[Incoterms Location 1] "Incoterms অবস্থান 1"
+Text F[Incoterms Location 2] "Incoterms অবস্থান 2"
+Text F[DP Category] "ডিপি ক্যাটাগরি"
