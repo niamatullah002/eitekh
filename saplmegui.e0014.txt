@@ -1,4 +1,4 @@
-Text C[Fixed Exch.Rate] "ফিক্সড এক্সচ.রেট"
+﻿Text C[Fixed Exch.Rate] "ফিক্সড এক্সচ.রেট"
 Text C[GR Message] "জিআর বার্তা"
 Text F[Currency] "মুদ্রা"
 Text F[Doc. Date] "ডক তারিখ"
@@ -174,3 +174,4 @@ Text P[Messages] "বার্তা"
 Text P[print preview] "মুদ্রণ পূর্বরূপ"
 Text P[Document Overview On] "নথি ওভারভিউ"
 Text P[Personal Setting] "ব্যক্তিগত সেটিং"
+
