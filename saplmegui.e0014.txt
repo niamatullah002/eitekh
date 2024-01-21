@@ -11,7 +11,7 @@ Text F[Supplier] "সরবরাহকারী"
 Text F[days] "দিন"
 Text F[days net] "দিন নেট"
 Text F[days.2] "দিন।2"
-Text P[Additional Data] "অতিরিক্ত তথ্য"
+del P[Additional Data]
 Text P[Addl Planning] "অতিরিক্ত পরিকল্পনা"
 Text P[Address] "ঠিকানা"
 Text P[Block] "ব্লক"
