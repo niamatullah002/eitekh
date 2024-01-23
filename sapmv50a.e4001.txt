@@ -1,0 +1,31 @@
+﻿F[Actual GI Date]                               	(6,1) 	(6,19) 	F[LIKP-WADAT_IST]
+F[Document Date]                             	(0,36) 	(0,54) 	F[LIKP-BLDAT]
+F[GV_WADAT_IST_TZONIS]       	(6,39) 	 	
+F[GV_WADAT_TZONIS]               	(5,39) 	 	
+F[LIKP-GEWEI]                                  	(5,86) 	 	
+F[LIKP-SPE_WAUHR_IST]            	(6,32) 	 	
+F[LIKP-WAUHR]                              	(5,32) 	 	
+F[No. of Packages]                            	(6,48) 	(6,66) 	F[LIKP-ANZPK]
+F[Outbound Deliv.]                           	(0,0) 	(0,18) 	F[LIKP-VBELN]
+F[Planned GI]                                      	(5,1) 	(5,19) 	F[LIKP-WADAT]
+F[RV50A-TXTWE]                            	(1,36) 	 	
+F[Ship-to Party]                                  	(1,0) 	(1,18) 	(1,36) 	F[KUWEV-KUNNR]
+F[Total Weight]                                 	(5,48) 	(5,66) 	F[LIKP-BTGEW]
+P[Address]                                          	(1,31) 	 	P[BT_WADR_T]
+P[All items]                                         	(21,62) 	 	P[BT_UALL]
+P[Batch Split]                                      	(21,22) 	 	P[BT_CHSP_T]
+P[Create item]                                     	(21,11) 	 	P[BT_POAN_T]
+P[Delete item(s)]                                 	(21,14) 	 	P[BT_POLO_T]
+P[Deselect All]                                   	(21,7) 	 	P[BT_MKLO_T]
+P[Goods Movement Data]                	(3,6) 	 	P[T\06]
+P[Item Details]                                    	(21,1) 	 	P[BT_IDET_T]
+P[Item Overview]                               	(3,1) 	 	P[T\01]
+P[Loading]                                          	(3,3) 	 	P[T\03]
+P[Main items]                                     	(21,41) 	 	P[BT_UHAU]
+P[Picking]                                            	(3,2) 	 	P[T\02]
+P[Place cursor]                                   	(21,18) 	 	P[BT_POPO_T]
+P[Select All]                                        	(21,4) 	 	P[BT_MKAL_T]
+P[Shipment]                                        	(3,4) 	 	P[T\04]
+P[Status Overview]                            	(3,5) 	 	P[T\05]
+S[TAXI_TABSTRIP_OVERVIEW] 	(3,0) 	 	
+T[All Items]                                         	(8,1) 	 	T[SAPMV50A_TC_LIPS_OVER]
